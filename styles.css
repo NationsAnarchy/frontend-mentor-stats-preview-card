@@ -81,7 +81,7 @@ span {
 
 .content-container {
     background-color: var(--card-bg);
-    padding: 50px 60px 0px 50px;
+    padding: 50px 70px 0px 70px;
     max-width: 500px;
     border-radius: 10px 0 0 10px;
 }
