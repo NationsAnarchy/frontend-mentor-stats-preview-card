@@ -47,7 +47,8 @@ span {
     display: block;
     border-radius: 0 10px 10px 0;
     background-color: var(--accent);
-    opacity: .5;
+    mix-blend-mode: multiply;
+    opacity: .8;
     object-fit: cover;
 }
 
@@ -126,7 +127,8 @@ span {
         display: block;
         height: 300px;
         background-color: var(--accent);
-        opacity: .5;
+        mix-blend-mode: multiply;
+        opacity: .8;
         object-fit: cover;
     }
 
